@@ -14,10 +14,12 @@ Senior Software Engineering student at the **University of Jeddah**, passionate 
 - **[My_Projects](https://github.com/maher995/My_Projects)** — A collection of projects built over the years
 - **[Tests](https://github.com/maher995/Tests)** — Experiments testing AI-suggested descriptive naming conventions
 - 🆕 **[CPPprograms](https://github.com/maher995/CPPprograms)** — A collection of C++ examples as I build up my foundations in the language
+- **[FlutterFlow](https://github.com/maher995/Intajiyah)** — Senior project established using FlutterFlow framework
 
 ## 🛠️ Tech & Tools
 - **Languages:** Java, C++ (learning)
 - **Practices:** Design Patterns, Agile Planning, Software Testing
+- **Technologies:** FlutterFlow, Firebase
 
 ## 📫 Connect with Me
 - 💼 [LinkedIn](https://www.linkedin.com/in/maher-abbas-028819229/)
